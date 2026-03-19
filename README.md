@@ -76,7 +76,7 @@ python pyshield.py myscript.py -o protected\myscript.py
 With the C guard active (default), PyShield produces two files that must be distributed together:
 
 ```
-myscript_obf.py      ← the protected script (3 lines)
+myscript_obf.py      ← the protected script 
 pyshield_rt.pyd      ← C runtime guard — must stay alongside the .py
 ```
 
