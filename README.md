@@ -5,7 +5,7 @@ Python source code protector for Windows. Transforms `.py` files into hardened o
 ---
 
 
-<img width="1360" height="540" alt="pyshield_banner" src="https://github.com/user-attachments/assets/889dea4a-24e9-433f-97f8-18871db52159" />
+<img width="1410" height="560" alt="image" src="https://github.com/user-attachments/assets/a219c96a-e6dc-4c0d-bdad-4c6757cbceec" />
 
 
 
