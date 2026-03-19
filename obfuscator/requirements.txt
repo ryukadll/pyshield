@@ -1,0 +1,4 @@
+cryptography>=41.0.0
+pycryptodome>=3.17.0
+setuptools>=65.0.0
+pyinstaller>=6.0.0
