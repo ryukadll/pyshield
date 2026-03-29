@@ -8,7 +8,7 @@ Python source code protector for Windows. Transforms `.py` files into hardened o
 <img width="1410" height="560" alt="image" src="https://github.com/user-attachments/assets/a219c96a-e6dc-4c0d-bdad-4c6757cbceec" />
 
 
-
+ 
 
 ## Requirements
 
