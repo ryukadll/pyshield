@@ -12,7 +12,7 @@ Python source code protector for Windows. Transforms `.py` files into hardened o
 
 ## Requirements
 
-- **Windows 10 / 11** (x64)
+- **Windows 10 / 11** (x64) 
 - **Python 3.11 or later** (3.12–3.14 tested)
 - `pip install cryptography` — AES-256-GCM runtime stubs
 - `pip install setuptools` — required to compile the C guard (`.pyd`)
