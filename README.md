@@ -9,7 +9,7 @@ Python source code protector for Windows. Transforms `.py` files into hardened o
 
 
  
-
+ 
 ## Requirements
 
 - **Windows 10 / 11** (x64) 
